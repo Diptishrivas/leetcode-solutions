@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0287-find-the-duplicate-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -30,14 +31,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
