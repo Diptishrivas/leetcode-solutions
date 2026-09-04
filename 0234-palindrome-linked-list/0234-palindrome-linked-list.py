@@ -5,39 +5,36 @@
 #         self.next = next
 class Solution(object):
     def isPalindrome(self, head):
+        # find middle
         slow = head
         fast = head
 
-        while fast is not None and fast.next is not None:
-            slow = slow.next
-            fast = fast.next.next
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
 
-        newnode = self.reverse(slow)
+        # //reverse half LL
 
-        first = head
-        second = newnode
+        previous=None
+        current=slow
 
-        while second is not None:
+        while current:
+            next_node=current.next
+            current.next=previous
+            previous=current
+            current=next_node
 
-            if first.val != second.val:
+        # match the values
+
+        left=head
+        right=previous
+
+        while right:
+            if left.val!=right.val:
                 return False
-
-            first = first.next
-            second = second.next
+            
+            left=left.next
+            right=right.next
 
         return True
- 
-    def reverse(self, head):
 
-        previous = None
-        current = head
-
-        while current is not None:
-
-            next_node = current.next
-            current.next = previous
-
-            previous = current
-            current = next_node
-
-        return previous
