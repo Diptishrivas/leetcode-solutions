@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0383-ransom-note](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0409-longest-palindrome) |
