@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0506-relative-ranks](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0506-relative-ranks) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
