@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0575-distribute-candies](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1189-maximum-number-of-balloons](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
