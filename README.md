@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Prefix Sum
 |  |
