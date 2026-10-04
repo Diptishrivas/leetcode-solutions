@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0457-circular-array-loop](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Ternary Search
 |  |
 | ------- |
