@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
