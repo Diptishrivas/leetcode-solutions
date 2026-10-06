@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
