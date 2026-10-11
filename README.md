@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0202-happy-number) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Queue
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
