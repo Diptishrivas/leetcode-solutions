@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution(object):
     def isPalindrome(self, head):
-        # find middle
+    
         slow = head
         fast = head
 
@@ -13,7 +13,7 @@ class Solution(object):
             slow=slow.next
             fast=fast.next.next
 
-        # //reverse half LL
+    
 
         previous=None
         current=slow
@@ -24,7 +24,7 @@ class Solution(object):
             previous=current
             current=next_node
 
-        # match the values
+   
 
         left=head
         right=previous
