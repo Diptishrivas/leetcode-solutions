@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0130-surrounded-regions](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Simulation
