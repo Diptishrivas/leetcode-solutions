@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1020-number-of-enclaves](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Diptishrivas/leetcode-solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,4 +418,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 <!---LeetCode Topics End-->
