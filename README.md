@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Search
 |  |
@@ -428,4 +430,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/Diptishrivas/leetcode-solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
