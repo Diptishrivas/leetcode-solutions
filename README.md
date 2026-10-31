@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0202-happy-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Prefix Sum
