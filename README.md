@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Diptishrivas/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -496,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Diptishrivas/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
